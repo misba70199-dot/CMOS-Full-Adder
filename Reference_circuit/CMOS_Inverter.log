@@ -1,0 +1,16 @@
+LTspice 26.1.1 for Windows
+Circuit: C:\CMOS-FULL-Adder\Reference_circuit\CMOS_Inverter.net
+Start Time: Sat Nov  7 19:09:43 2026
+solver = Normal
+Maximum thread count: 2
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.903 seconds.
+Total iterations: 2199
+
+Files loaded:
+C:\CMOS-FULL-Adder\Reference_circuit\CMOS_Inverter.net
+C:\Users\Admin\AppData\Local\LTspice\lib\cmp\standard.mos
+

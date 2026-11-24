@@ -1,0 +1,16 @@
+LTspice 26.1.1 for Windows
+Circuit: C:\CMOS-FULL-Adder\Circuit_Designs\CMOS_Full_Adder.net
+Start Time: Sat Nov  7 18:46:42 2026
+solver = Normal
+Maximum thread count: 2
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 1.175 seconds.
+Total iterations: 5346
+
+Files loaded:
+C:\CMOS-FULL-Adder\Circuit_Designs\CMOS_Full_Adder.net
+C:\Users\Admin\AppData\Local\LTspice\lib\cmp\standard.mos
+
